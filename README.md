@@ -2,7 +2,7 @@ Concept Overview
 
 Objective
 
-Create a Tapp that allows users to transform their tweets into actual meme coins through community engagement. This process involves:
+Create a Tapp that allows users to transform their tweets into actual meme coins through community engagement. It is Twitter promotion (enough loving >> minting) + Pump.fun (enough buying >> listing). This process involves:
 
 	•	User A posting a tweet with a Tlink.
 	•	The Tlink renders a TokenScript card in the tweet, visually linked to the tweet content.
